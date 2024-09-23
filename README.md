@@ -46,4 +46,4 @@ Please note that the contract allows only the owner to mint new NFTs and provide
 
 
 ### Author
-Siddharth Nain
+Diksha
